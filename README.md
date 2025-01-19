@@ -15,7 +15,7 @@ This project combines advanced Excel features with user-friendly design to simpl
 ![Dashboard Screenshot] https://github.com/user-attachments/assets/9c1bc81d-1b88-4d6f-a366-3c3d713c2ce6)
 
 ### **Budget Data Entry Section**
-![Data Entry Screenshot](![Image](https://github.com/user-attachments/assets/bbe67a30-a0c3-4efb-b5b5-838c06e56a0b))
+![Data Entry Screenshot]![Image](https://github.com/user-attachments/assets/bbe67a30-a0c3-4efb-b5b5-838c06e56a0b
 
 ---
 
