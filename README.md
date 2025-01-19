@@ -1,6 +1,6 @@
 # 📊 Personal Budget Planner – Excel Project
 
-**An interactive financial planning tool built in Excel to help users track income, expenses, savings, and bills while visualizing financial trends in real-time.**  
+**An  interactive financial planning Excel dashboard to help myself track income, expenses, savings, and bills while visualizing financial trends in real-time.**  
 This project combines advanced Excel features with user-friendly design to simplify personal finance management.
 
 
